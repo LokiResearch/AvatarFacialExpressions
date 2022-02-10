@@ -100,6 +100,7 @@ public class ShapeKeysFace : Face
     }
 
     public Expression expression;
+    [Range(0f, 1f)]
     public float intensity;
 
 

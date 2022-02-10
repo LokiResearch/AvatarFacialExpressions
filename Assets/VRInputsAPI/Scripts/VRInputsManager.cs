@@ -34,7 +34,7 @@ namespace VRInputsAPI
 
         public static Vector2 NaNVector2 = new Vector2(float.NaN, float.NaN);
 
-        private static VRDeviceEnum mainHand = VRDeviceEnum.LeftCtrl, offHand = VRDeviceEnum.RightCtrl;
+        private static VRDeviceEnum mainHand = VRDeviceEnum.RightCtrl, offHand = VRDeviceEnum.LeftCtrl;
 
         public static void SetMainHand(VRDeviceEnum mainHandDevice, VRDeviceEnum offHandDevice)
         {
