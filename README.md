@@ -2,6 +2,10 @@
 
 This is a Unity Project containing the source code and prefab for the interaction techniques we present in our paper referenced below.
 
+<p align="center">
+<a href="https://youtu.be/AsRy9L6b0kU"><img src="https://img.youtube.com/vi/AsRy9L6b0kU/sddefault.jpg" alt="Watch the video"></a>
+</p>
+
 - If you use one of our techniques for industrial purposes, please star the project and drop us a line by e-mail to tell us in which application you use it.
 
 - If you use one of our techniques for academic purposes, please cite: Marc Baloup, Thomas Pietrzak, Martin Hachet, and Géry Casiez. 2021. Non-isomorphic Interaction Techniques for Controlling Avatar Facial Expressions in VR. In Proceedings of VRST '21. ACM, New York, NY, USA, Article 5, 1–10.
